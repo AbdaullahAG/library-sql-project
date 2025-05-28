@@ -1,0 +1,2 @@
+# library-sql-project
+CREATE DATABASE FOR LIBRARY USING MYSQL
